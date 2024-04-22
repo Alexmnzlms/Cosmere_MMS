@@ -1,5 +1,4 @@
 Id;Label;Book;Planet;Race;Region
-0;Aarik;White Sand;Taldaini;Lossandins;Taishin
 1;Abaray;Stormlight Archive;Rosharans;Singers;Other
 4;Abrial;Stormlight Archive;Rosharans;Veden;Other
 5;Abrobadar;Stormlight Archive;Rosharans;Other;Other
@@ -10,16 +9,15 @@ Id;Label;Book;Planet;Race;Region
 10;Adien;Elantris;Selish;Aonic;Arelene
 12;Adis;Stormlight Archive;Rosharans;Other;Other
 13;Admiral;The Sunlit Man;Threnodite;Other;Other
-14;Admiral Daal;Mistborn Era 2;Scadrians;Other;Malwish
 15;Adolin Kholin;Stormlight Archive;Rosharans;Alethi;Other
 16;Adonalsium;Other;Other;Other;Other
 18;Adrotagia;Stormlight Archive;Rosharans;Other;Kharbranthians
-19;Aeo;Elantris;Selish;Other;Other
+19;Aeo;Elantris;Selish;Seons;Other
 21;Agil;Stormlight Archive;Rosharans;Alethi;Other
 23;Aharat;Stormlight Archive;Rosharans;Singers;Other
 24;Ais;White Sand;Taldaini;Kerztians;Lossandins
 25;Akane;Yumi and the Nightmare Painter;Komashi;Nagadan;Other
-26;Ala;Stormlight Archive;Rosharans;Other;Other
+26;Ala;Stormlight Archive;Rosharans;Seons;Other
 27;Alabet;Stormlight Archive;Rosharans;Alethi;Other
 28;Aladar;Stormlight Archive;Rosharans;Alethi;Other
 29;Alai;Stormlight Archive;Rosharans;Other;Other
@@ -30,7 +28,6 @@ Id;Label;Book;Planet;Race;Region
 39;Alendi;Mistborn Era 1;Scadrians;Khlenni;Other
 41;Alezarv;Stormlight Archive;Rosharans;Other;Other
 42;Ali-daughter-Hasweth;Stormlight Archive;Rosharans;Shin;Other
-46;Allik Neverfar;Mistborn Era 2;Scadrians;Other;Malwish
 47;Allmother;Warbreaker;Nalthians;Other;Hallandren
 51;Allrianne Cett;Mistborn Era 1;Scadrians;Other;Other
 52;Allrianne's mother;Mistborn Era 1;Scadrians;Other;Other
@@ -56,7 +53,7 @@ Id;Label;Book;Planet;Race;Region
 83;Arriev;Mistborn Era 1;Scadrians;Other;Other
 84;Arshqqam;Stormlight Archive;Rosharans;Other;Other
 85;Arsteel;Warbreaker;Nalthians;Other;Other
-87;Ashe;Elantris;Selish;Other;Other
+87;Ashe;Elantris;Selish;Seons;Other
 88;Ashelem;Stormlight Archive;Rosharans;Alethi;Other
 89;Ashertmarn;Stormlight Archive;Rosharans;Spren;Other
 92;Ashir;Stormlight Archive;Rosharans;Other;Other
@@ -66,8 +63,7 @@ Id;Label;Book;Planet;Race;Region
 98;Aslydin;Mistborn Era 1;Scadrians;Other;Terris
 99;Asthta-daughter-Methista;Stormlight Archive;Rosharans;Shin;Other
 101;Ati;Mistborn Era 1;Scadrians;Other;Other
-102;Ati (seon);Elantris;Selish;Other;Other
-103;Atsuko;The Emperor's Soul;Selish;Other;Other
+102;Ati (seon);Elantris;Selish;Seons;Other
 111;Austre;Warbreaker;Other;Other;Other
 112;Auxiliary;The Sunlit Man;Rosharans;Spren;Other
 115;Avarak Matal;Stormlight Archive;Rosharans;Alethi;Other
@@ -101,7 +97,6 @@ Id;Label;Book;Planet;Race;Region
 164;Bila;Stormlight Archive;Rosharans;Singers;Other
 165;Bilg;Mistborn Era 1;Scadrians;Skaa;Other
 167;Bisig;Stormlight Archive;Rosharans;Other;Other
-168;Blantach;Mistborn Era 2;Scadrians;Other;Other
 170;Blended;Stormlight Archive;Rosharans;Spren;Other
 172;Blome;Mistborn Era 2;Scadrians;Other;Other
 176;Blushweaver;Warbreaker;Nalthians;Other;Hallandren
@@ -128,7 +123,7 @@ Id;Label;Book;Planet;Race;Region
 221;Cassileux;Mistborn Era 2;Scadrians;Other;Other
 222;Caull;Stormlight Archive;Rosharans;Alethi;Other
 223;Cenn;Stormlight Archive;Rosharans;Alethi;Other
-225;Chaeyung;Yumi and the Nightmare Painter;Komashi;Other;Torish
+225;Chaeyung;Yumi and the Nightmare Painter;Komashi;Nightmares;Torish
 227;Chanada;Stormlight Archive;Rosharans;Alethi;Other
 228;Chananar;Stormlight Archive;Rosharans;Other;Other
 229;Chanarach;Stormlight Archive;Rosharans;Other;Other
@@ -146,9 +141,7 @@ Id;Label;Book;Planet;Race;Region
 256;Cobble;Mistborn Era 1;Scadrians;Skaa;Other
 257;Coldwin;Stormlight Archive;Rosharans;Other;Other
 258;Colot;Stormlight Archive;Rosharans;Alethi;Other
-262;Confidence;The Sunlit Man;Threnodite;Other;Other
 263;Conrad;Mistborn Era 1;Scadrians;Other;Other
-264;Contemplation;The Sunlit Man;Threnodite;Other;Other
 267;Cord;Stormlight Archive;Rosharans;Other;Unkalaki
 268;Coreb;Stormlight Archive;Rosharans;Other;Other
 269;Corl;Stormlight Archive;Rosharans;Other;Other
@@ -168,24 +161,20 @@ Id;Label;Book;Planet;Race;Region
 294;Dalksi;Stormlight Archive;Rosharans;Azish;Other
 295;Dallet;Stormlight Archive;Rosharans;Alethi;Other
 297;Danlan Morakotha;Stormlight Archive;Rosharans;Alethi;Other
-298;Dao;Mistborn Era 2;Scadrians;Other;Other
+298;Dao;Mistborn Era 2;Scadrians;Seons;Other
 301;Darcira;Stormlight Archive;Rosharans;Other;Other
-302;Darkwater;Mistborn Era 2;Scadrians;Other;Other
-303;Darlin Cett;Mistborn Era 2;Scadrians;Other;Other
 306;Dashe;Elantris;Selish;Aonic;Other
 309;Davim;Stormlight Archive;Rosharans;Singers;Other
 310;Dean;Other;Scadrians;Other;Other
 315;Dedri Vasting;Mistborn Era 1;Scadrians;Other;Other
 316;Deedanor;Stormlight Archive;Rosharans;Alethi;Other
 318;Delgo;Stormlight Archive;Rosharans;Other;Other
-319;Delius;White Sand;Taldaini;Lossandins;Taishin
 321;Delp;Stormlight Archive;Rosharans;Other;Other
 323;Deluse Couvre;Mistborn Era 1;Scadrians;Other;Other
 324;Dem;Stormlight Archive;Rosharans;Other;Other
 325;Demid;Stormlight Archive;Rosharans;Singers;Other
 327;Demoux;Mistborn Era 1;Scadrians;Skaa;Other
 329;Denshil;Stormlight Archive;Rosharans;Singers;Other
-331;Deral;White Sand;Taldaini;Other;Darksiders
 333;Derethil;Stormlight Archive;Rosharans;Other;Other
 334;Design;Stormlight Archive;Rosharans;Spren;Other
 337;Devi;Stormlight Archive;Rosharans;Singers;Other
@@ -194,17 +183,15 @@ Id;Label;Book;Planet;Race;Region
 342;Dianil;Stormlight Archive;Rosharans;Singers;Other
 343;Dieno;Stormlight Archive;Rosharans;Herdazians;Other
 347;Dilisteni;Mistborn Era 1;Scadrians;Other;Other
-349;Dio;Elantris;Selish;Other;Other
+349;Dio;Elantris;Selish;Seons;Other
 351;Dion;Elantris;Selish;Aonic;Other
 352;Diren;Elantris;Selish;Aonic;Other
 354;Dirin;White Sand;Taldaini;Lossandins;Daysiders
 355;Dirk;Tress of the Emerald Sea;Lumarans;Other;Other
-357;Divinity Salvage;The Sunlit Man;Threnodite;Other;Other
-358;Dlavil;Other;Scadrians;Other;Other
+358;Dlavil;Other;Scadrians;Southern Scadrians;Other
 360;Dockson;Mistborn Era 1;Scadrians;Skaa;Other
 362;Dok;Stormlight Archive;Rosharans;Alethi;Other
 363;Dolimid;Stormlight Archive;Rosharans;Singers;Other
-365;Donny;Mistborn Era 2;Scadrians;Other;Other
 366;Donton;Mistborn Era 2;Scadrians;Other;Other
 368;Doril;White Sand;Taldaini;Lossandins;Daysiders
 372;Dothgen;Elantris;Selish;Other;Fjordell
@@ -212,7 +199,6 @@ Id;Label;Book;Planet;Race;Region
 377;Drapen;Mistborn Era 2;Scadrians;Other;Other
 379;Dreaming-though-Awake;Stormlight Archive;Rosharans;Spren;Other
 381;Drehy;Stormlight Archive;Rosharans;Other;Other
-382;Drenya;Mistborn Era 2;Scadrians;Other;Other
 384;Dridel;Mistborn Era 1;Scadrians;Other;Other
 385;Drile;White Sand;Taldaini;Lossandins;Daysiders
 387;Drlwan;Stormlight Archive;Rosharans;Other;Thaylen
@@ -222,7 +208,6 @@ Id;Label;Book;Planet;Race;Region
 396;Dumad;Mistborn Era 2;Scadrians;Other;Other
 397;Dunny;Stormlight Archive;Rosharans;Alethi;Other
 399;Durk;Stormlight Archive;Rosharans;Other;Other
-400;Durkel;Mistborn Era 2;Scadrians;Other;Other
 403;Durton;Mistborn Era 1;Scadrians;Other;Other
 404;Dwookim;Yumi and the Nightmare Painter;Komashi;Other;Torish
 405;Dym;Stormlight Archive;Rosharans;Other;Other
@@ -237,7 +222,6 @@ Id;Label;Book;Planet;Race;Region
 420;Eleseth;Stormlight Archive;Rosharans;Other;Other
 421;Elhokar Kholin;Stormlight Archive;Rosharans;Alethi;Other
 422;Elit Ruthar;Stormlight Archive;Rosharans;Alethi;Other
-424;Elizandra Dramali;Mistborn Era 2;Scadrians;Other;Other
 425;Ellista;Stormlight Archive;Rosharans;Other;Other
 426;Elorin;White Sand;Taldaini;Lossandins;Daysiders
 428;Elrao;Other;Selish;Other;Other
@@ -253,13 +237,11 @@ Id;Label;Book;Planet;Race;Region
 446;Eth;Stormlight Archive;Rosharans;Other;Other
 447;Ethid;Stormlight Archive;Rosharans;Azish;Other
 449;Eusto;Sixth of the Dusk;Other;Other;Eelakin
-451;Eventeo;Elantris;Selish;Other;Other
 453;Evinor;Stormlight Archive;Rosharans;Veden;Other
 454;Evod Markmaker;Stormlight Archive;Rosharans;Other;Other
 455;Extes;Stormlight Archive;Rosharans;Other;Other
 457;Fabrisan;Stormlight Archive;Rosharans;Other;Other
 458;Fafen;Warbreaker;Nalthians;Other;Idrians
-459;Faith;The Sunlit Man;Threnodite;Other;Other
 460;Falilar;Stormlight Archive;Rosharans;Alethi;Other
 462;Fari;Stormlight Archive;Rosharans;Other;Other
 463;Faridai;Stormlight Archive;Rosharans;Singers;Other
@@ -271,7 +253,6 @@ Id;Label;Book;Planet;Race;Region
 474;Fellette Renoux;Mistborn Era 1;Other;Other;Other
 475;Felt;Other;Scadrians;Other;Other
 477;Ferson Penrod;Mistborn Era 1;Scadrians;Other;Other
-478;FhorKood;Mistborn Era 1;Scadrians;Other;Other
 479;Fia;Stormlight Archive;Rosharans;Other;Other
 480;Fialia;Mistborn Era 2;Scadrians;Other;Other
 482;Fimkn;Stormlight Archive;Rosharans;Other;Thaylen
@@ -283,11 +264,11 @@ Id;Label;Book;Planet;Race;Region
 494;Flennid;White Sand;Taldaini;Other;Darksiders
 499;Forch;Mistborn Era 2;Scadrians;Other;Terris
 501;Fort;Tress of the Emerald Sea;Lumarans;Other;Other
-503;Fourth Torish scholar;Yumi and the Nightmare Painter;Komashi;Other;Torish
+503;Fourth Torish scholar;Yumi and the Nightmare Painter;Komashi;Nightmares;Torish
 505;Franis;Mistborn Era 2;Scadrians;Other;Other
 507;Frava;The Emperor's Soul;Selish;Other;Other
 508;Fronks Vif;Mistborn Era 2;Scadrians;Other;Other
-509;Frost;Other;Yolish;Other;Other
+509;Frost;Other;Yolish;Dragon (cosmere);Other
 510;Gabrathin;Stormlight Archive;Rosharans;Other;Other
 511;Gabria;Mistborn Era 2;Scadrians;Other;Other
 512;Gadol;Stormlight Archive;Rosharans;Other;Other
@@ -308,16 +289,13 @@ Id;Label;Book;Planet;Race;Region
 537;Gavilar Kholin;Stormlight Archive;Rosharans;Alethi;Other
 539;Gavri;Stormlight Archive;Rosharans;Other;Other
 540;Gaz;Stormlight Archive;Rosharans;Other;Other
-541;Gemdwyn;Mistborn Era 2;Scadrians;Other;Other
 542;Gemmel;Mistborn Era 1;Scadrians;Other;Other
 543;Gen;Stormlight Archive;Rosharans;Other;Other
 546;General Khal;Stormlight Archive;Rosharans;Alethi;Other
-547;Gennel;White Sand;Taldaini;Lossandins;Taishin
 549;Geranid;Stormlight Archive;Rosharans;Other;Other
 550;Gereh;Stormlight Archive;Rosharans;Other;Terris
 552;Getruda;Mistborn Era 2;Scadrians;Other;Other
 553;Getrue;Mistborn Era 1;Scadrians;Skaa;Other
-554;Gevalden;White Sand;Taldaini;Lossandins;Taishin
 555;Geved;Stormlight Archive;Rosharans;Veden;Other
 559;Giftbeacon;Warbreaker;Nalthians;Other;Hallandren
 560;Gitgeth;Stormlight Archive;Rosharans;Singers;Other
@@ -326,25 +304,21 @@ Id;Label;Book;Planet;Race;Region
 564;Godeke;Stormlight Archive;Rosharans;Other;Other
 565;Gol;Stormlight Archive;Rosharans;Other;Other
 566;Golombi;Stormlight Archive;Rosharans;Other;Other
-568;Gongsha mayor;Yumi and the Nightmare Painter;Komashi;Other;Torish
+568;Gongsha mayor;Yumi and the Nightmare Painter;Komashi;Nightmares;Torish
 569;Gor;Stormlight Archive;Rosharans;Other;Other
 570;Goradel;Mistborn Era 1;Scadrians;Skaa;Other
-572;Gorglen;Mistborn Era 2;Scadrians;Other;Other
-575;Graeo;Elantris;Selish;Aonic;Other
-576;Granite Joe;Mistborn Era 2;Scadrians;Other;Other
 577;Granks;Mistborn Era 2;Scadrians;Other;Other
 578;Graves;Stormlight Archive;Rosharans;Alethi;Other
-581;Gregr;Mistborn Era 2;Scadrians;Other;Other
 584;Gremt;White Sand;Taldaini;Lossandins;Daysiders
 587;Grondkest;Elantris;Selish;Other;Other
 595;Gustal;Tress of the Emerald Sea;Lumarans;Other;Other
 596;Guvlow;Stormlight Archive;Rosharans;Other;Other
 597;Guyn;Other;Other;Other;Other
-599;Gyundok;Yumi and the Nightmare Painter;Komashi;Other;Torish
+599;Gyundok;Yumi and the Nightmare Painter;Komashi;Nightmares;Torish
 600;Hab;Stormlight Archive;Rosharans;Other;Other
 602;Habrin;Stormlight Archive;Rosharans;Alethi;Other
 603;Habsant;Stormlight Archive;Rosharans;Other;Other
-604;Haddek;Mistborn Era 1;Scadrians;Other;Terris
+604;Haddek;Mistborn Era 1;Scadrians;Kandra;Terris
 605;Hadinar;Stormlight Archive;Rosharans;Other;Other
 606;Hadren Renoux;Mistborn Era 1;Other;Other;Other
 608;Halam Khal;Stormlight Archive;Rosharans;Alethi;Other
@@ -356,7 +330,6 @@ Id;Label;Book;Planet;Race;Region
 619;Hanlanaze;Mistborn Era 2;Scadrians;Other;Terris
 620;Haona;Elantris;Selish;Aonic;Other
 622;Hardren;Mistborn Era 1;Scadrians;Other;Other
-623;Hardy;The Sunlit Man;Threnodite;Other;Other
 625;Haridan;The Sunlit Man;Residents of Canticle (page does not exist);Other;Other
 626;Hariel;Stormlight Archive;Rosharans;Singers;Other
 628;Harl;Stormlight Archive;Rosharans;Alethi;Other
@@ -371,7 +344,6 @@ Id;Label;Book;Planet;Race;Region
 644;Havrom;Stormlight Archive;Rosharans;Alethi;Other
 646;Haws;Mistborn Era 1;Scadrians;Skaa;Other
 648;Heberen;Mistborn Era 1;Scadrians;Other;Other
-649;Heelis;White Sand;Taldaini;Lossandins;Taishin
 650;Helaran Davar;Stormlight Archive;Rosharans;Veden;Other
 659;Hessi;Stormlight Archive;Rosharans;Other;Other
 660;Hettel;Mistborn Era 1;Scadrians;Skaa;Other
@@ -380,18 +352,17 @@ Id;Label;Book;Planet;Race;Region
 667;Hnanan;Stormlight Archive;Rosharans;Singers;Other
 669;Hobber;Stormlight Archive;Rosharans;Other;Other
 670;Hoid;Other;Yolish;Other;Other
-672;Honam;Yumi and the Nightmare Painter;Komashi;Other;Torish
+672;Honam;Yumi and the Nightmare Painter;Komashi;Nightmares;Torish
 673;Hopefinder;Warbreaker;Nalthians;Other;Hallandren
 674;Horen;Elantris;Selish;Aonic;Other
 675;Horinar;Stormlight Archive;Rosharans;Other;Other
-678;Hrathen's seon;Elantris;Selish;Other;Other
+678;Hrathen's seon;Elantris;Selish;Seons;Other
 679;Hrdalm;Stormlight Archive;Rosharans;Other;Thaylen
 682;Huio;Stormlight Archive;Rosharans;Herdazians;Other
-684;HunFoor;Mistborn Era 1;Scadrians;Other;Other
 685;Huqin;Stormlight Archive;Rosharans;Azish;Other
 686;Hurli;The Emperor's Soul;Selish;Other;Other
 687;Husal;Stormlight Archive;Rosharans;Singers;Other
-688;Hwanji;Yumi and the Nightmare Painter;Komashi;Other;Torish
+688;Hwanji;Yumi and the Nightmare Painter;Komashi;Nightmares;Torish
 690;Ialai Sadeas;Stormlight Archive;Rosharans;Alethi;Other
 691;Ico;Stormlight Archive;Rosharans;Spren;Other
 692;Ico's father;Stormlight Archive;Rosharans;Spren;Other
@@ -400,7 +371,7 @@ Id;Label;Book;Planet;Race;Region
 698;Idotris;Elantris;Selish;Aonic;Arelene
 699;Idren Seeris;Mistborn Era 1;Scadrians;Other;Other
 700;Idrin;Stormlight Archive;Rosharans;Alethi;Other
-701;Ien;Elantris;Selish;Other;Other
+701;Ien;Elantris;Selish;Seons;Other
 702;Ikonora;Yumi and the Nightmare Painter;Komashi;Nagadan;Other
 703;Ilamar;Stormlight Archive;Rosharans;Alethi;Other
 704;Inabar;Stormlight Archive;Rosharans;Other;Other
@@ -413,7 +384,6 @@ Id;Label;Book;Planet;Race;Region
 719;Isasik Shulin;Stormlight Archive;Rosharans;Alethi;Other
 720;Ishal;Stormlight Archive;Rosharans;Alethi;Other
 721;Ishar;Stormlight Archive;Rosharans;Other;Other
-722;Ishikk;Stormlight Archive;Rosharans;Other;Selay
 723;Ishnah;Stormlight Archive;Rosharans;Alethi;Other
 724;Isom;Stormlight Archive;Rosharans;Other;Other
 726;Ithi;Stormlight Archive;Rosharans;Alethi;Other
@@ -422,15 +392,13 @@ Id;Label;Book;Planet;Race;Region
 730;Ivory;Stormlight Archive;Rosharans;Spren;Other
 731;Ixil;Stormlight Archive;Rosharans;Other;Kharbranthians
 732;Ixsix;Stormlight Archive;Rosharans;Other;Other
-734;Iyatil;Stormlight Archive;Rosharans;Other;Other
+734;Iyatil;Stormlight Archive;Rosharans;Southern Scadrians;Other
 735;Izumakamo;Yumi and the Nightmare Painter;Komashi;Nagadan;Other
 738;Jak;Mistborn Era 2;Scadrians;Other;Other
 739;Jakamav;Stormlight Archive;Rosharans;Alethi;Other
 740;Jaks;Stormlight Archive;Rosharans;Other;Other
 741;Jal Mala;Stormlight Archive;Rosharans;Veden;Other
-746;Jammi Walls;Mistborn Era 2;Scadrians;Other;Other
-747;Jamms;Mistborn Era 2;Scadrians;Other;Other
-750;Janarle;Mistborn Era 1;Scadrians;Other;Other
+750;Janarle;Mistborn Era 1;Scadrians;Koloss;Other
 754;Jasalai;Stormlight Archive;Rosharans;Alethi;Other
 755;Jasnah Kholin;Stormlight Archive;Rosharans;Alethi;Other
 756;Jasten;Mistborn Era 1;Scadrians;Skaa;Other
@@ -450,8 +418,6 @@ Id;Label;Book;Planet;Race;Region
 787;Jin;Stormlight Archive;Rosharans;Other;Other
 790;Jochi;Stormlight Archive;Rosharans;Other;Thaylen
 793;Jon Acron;White Sand;Taldaini;Other;Darksiders
-796;Jonnes;Mistborn Era 2;Scadrians;Other;Malwish
-798;Jordis;Mistborn Era 2;Scadrians;Other;Malwish
 799;Joret;Stormlight Archive;Rosharans;Other;Other
 800;Jorna;Stormlight Archive;Rosharans;Alethi;Other
 802;Joshor;Stormlight Archive;Rosharans;Other;Kharbranthians
@@ -468,25 +434,21 @@ Id;Label;Book;Planet;Race;Region
 817;Kalanor;Stormlight Archive;Rosharans;Alethi;Other
 818;Kale Tekiel;Mistborn Era 1;Scadrians;Other;Other
 820;Kalishor;Stormlight Archive;Rosharans;Alethi;Other
-821;KanPaar;Mistborn Era 1;Scadrians;Other;Other
 823;Kar;Mistborn Era 1;Scadrians;Other;Other
 824;Kara;Stormlight Archive;Rosharans;Other;Other
 825;Karata;Elantris;Selish;Aonic;Arelene
 828;Karm;Stormlight Archive;Rosharans;Other;Other
-832;Kath;Mistborn Era 2;Scadrians;Other;Other
 834;Kaza;Stormlight Archive;Rosharans;Liaforan (page does not exist);Other
 836;Kdralk;Stormlight Archive;Rosharans;Other;Thaylen
 839;Kelerand;Stormlight Archive;Rosharans;Alethi;Other
 841;Kellen;Mistborn Era 2;Scadrians;Other;Other
 842;Kelsier;Mistborn Era 1;Scadrians;Skaa;Other
 844;Kenton;White Sand;Taldaini;Lossandins;Darksiders
-847;Keseg;Elantris;Selish;Other;Other
 849;Kessi;Mistborn Era 2;Scadrians;Other;Other
-850;KeSun;Mistborn Era 2;Scadrians;Other;Other
 852;Kevoux;Mistborn Era 1;Scadrians;Other;Other
 857;Khrissalla;White Sand;Taldaini;Other;Darksiders
 859;Ki;Stormlight Archive;Rosharans;Other;Other
-860;Kiin;Elantris;Selish;Other;Other
+860;Kiin;Elantris;Selish;Other;Teo
 861;Kinaler;Mistborn Era 1;Scadrians;Skaa;Other
 862;Kindwinds;Warbreaker;Nalthians;Other;Hallandren
 864;Klade;Stormlight Archive;Rosharans;Singers;Other
@@ -497,7 +459,7 @@ Id;Label;Book;Planet;Race;Region
 872;Koorm;Stormlight Archive;Rosharans;Other;Other
 873;Korabet;Stormlight Archive;Rosharans;Other;Other
 874;Korater;Stormlight Archive;Rosharans;Other;Other
-876;Koravellium Avast;Stormlight Archive;Rosharans;Other;Other
+876;Koravellium Avast;Stormlight Archive;Rosharans;Dragon (cosmere);Other
 878;Kristir;Stormlight Archive;Rosharans;Other;Other
 880;Kstled;Stormlight Archive;Rosharans;Other;Thaylen
 882;Kuno;Stormlight Archive;Rosharans;Other;Other
@@ -518,7 +480,6 @@ Id;Label;Book;Planet;Race;Region
 915;Larn (Roshar);Stormlight Archive;Rosharans;Other;Other
 918;Lead;Tress of the Emerald Sea;Lumarans;Other;Other
 919;Ledder;Stormlight Archive;Rosharans;Other;Other
-921;LeeMar;Mistborn Era 2;Scadrians;Other;Other
 924;Lemex;Warbreaker;Nalthians;Other;Idrians
 925;Lemex's nurse;Warbreaker;Nalthians;Other;Terris
 927;Leras;Mistborn Era 1;Scadrians;Other;Other
@@ -532,8 +493,7 @@ Id;Label;Book;Planet;Race;Region
 943;Lin Davar;Stormlight Archive;Rosharans;Veden;Other
 945;Lirin;Stormlight Archive;Rosharans;Alethi;Other
 946;Liss;Stormlight Archive;Rosharans;Other;Other
-948;Liyun;Yumi and the Nightmare Painter;Komashi;Other;Torish
-952;Lokkall;White Sand;Taldaini;Lossandins;Taishin
+948;Liyun;Yumi and the Nightmare Painter;Komashi;Nightmares;Torish
 957;Longbrow;Stormlight Archive;Rosharans;Other;Thaylen
 958;Longshadow;Stormlight Archive;Rosharans;Other;Other
 959;Lopen;Stormlight Archive;Rosharans;Herdazians;Other
@@ -552,8 +512,7 @@ Id;Label;Book;Planet;Race;Region
 982;Maare;Elantris;Selish;Aonic;Other
 984;Maben;Stormlight Archive;Rosharans;Other;Kharbranthians
 986;Macil;Mistborn Era 2;Scadrians;Other;Other
-990;Mai;Elantris;Selish;Other;Other
-991;Maib;Stormlight Archive;Rosharans;Other;Selay
+990;Mai;Elantris;Selish;Seons;Other
 993;Maindew;Mistborn Era 2;Scadrians;Other;Other
 999;Malal;Stormlight Archive;Rosharans;Singers;Other
 1000;Malan;Stormlight Archive;Rosharans;Alethi;Other
@@ -564,10 +523,8 @@ Id;Label;Book;Planet;Race;Region
 1010;Maps;Stormlight Archive;Rosharans;Other;Other
 1011;Mara (Roshar);Stormlight Archive;Rosharans;Alethi;Other
 1014;Marasi Colms;Mistborn Era 2;Scadrians;Other;Other
-1016;Maraya;Mistborn Era 2;Scadrians;Other;Other
 1018;Mare;Mistborn Era 1;Scadrians;Skaa;Other
 1019;Mareshe;Elantris;Selish;Aonic;Arelene
-1022;Mari Hammondess;Mistborn Era 2;Scadrians;Other;Other
 1023;Marks (Roshar);Stormlight Archive;Rosharans;Alethi;Other
 1024;Marksman;Mistborn Era 2;Scadrians;Other;Other
 1028;Marsh;Mistborn Era 1;Scadrians;Skaa;Other
@@ -582,11 +539,10 @@ Id;Label;Book;Planet;Race;Region
 1044;Mayalaran;Stormlight Archive;Rosharans;Spren;Other
 1047;Mederia;Stormlight Archive;Rosharans;Other;Other
 1051;Mela;Stormlight Archive;Rosharans;Other;Other
-1052;MeLaan;Mistborn Era 2;Scadrians;Other;Other
+1052;MeLaan;Mistborn Era 2;Scadrians;Kandra;Other
 1053;Melali;Stormlight Archive;Rosharans;Other;Other
 1054;Melend Liese;Mistborn Era 1;Scadrians;Other;Other
 1056;Melishi;Stormlight Archive;Rosharans;Other;Other
-1058;Melloni;White Sand;Taldaini;Lossandins;Daysiders
 1059;Melu;Stormlight Archive;Rosharans;Singers;Other
 1062;Mercystar;Warbreaker;Nalthians;Other;Hallandren
 1063;Mereline;Mistborn Era 2;Scadrians;Other;Other
@@ -611,13 +567,11 @@ Id;Label;Book;Planet;Race;Region
 1102;Motif;Stormlight Archive;Rosharans;Spren;Other
 1103;Mraize;Stormlight Archive;Rosharans;Other;Thaylen
 1104;Mrall;Stormlight Archive;Rosharans;Other;Thaylen
-1106;Mrs. Nock;Mistborn Era 2;Scadrians;Other;Other
 1108;Mrun;Stormlight Archive;Rosharans;Singers;Other
 1109;Mungam;Stormlight Archive;Rosharans;Other;Other
 1112;Murk;Stormlight Archive;Rosharans;Other;Other
 1113;Murnbru;Mistborn Era 2;Scadrians;Other;Other
 1115;Myalmr;Stormlight Archive;Rosharans;Other;Other
-1116;N'Teese;White Sand;Taldaini;Lossandins;Darksiders
 1117;Nacomb Gaval;Stormlight Archive;Rosharans;Alethi;Other
 1118;Nafti;Stormlight Archive;Rosharans;Other;Other
 1122;Naladan;Stormlight Archive;Rosharans;Other;Other
@@ -626,7 +580,6 @@ Id;Label;Book;Planet;Race;Region
 1130;Namar;Stormlight Archive;Rosharans;Other;Other
 1131;Nanakai;Yumi and the Nightmare Painter;Komashi;Nagadan;Other
 1134;Nanhel Eltorv;Stormlight Archive;Rosharans;Other;Other
-1137;Naolen;Elantris;Selish;Other;Other
 1138;Narm;Stormlight Archive;Rosharans;Other;Other
 1139;Nashan;Stormlight Archive;Rosharans;Other;Other
 1140;Natam;Stormlight Archive;Rosharans;Alethi;Other
@@ -655,14 +608,13 @@ Id;Label;Book;Planet;Race;Region
 1175;Notum;Stormlight Archive;Rosharans;Spren;Other
 1178;Lunamor;Stormlight Archive;Rosharans;Other;Unkalaki
 1179;Nyen;The Emperor's Soul;Selish;Other;MaiPon
-1182;Olin Tober;Mistborn Era 2;Scadrians;Other;Other
 1183;Omal;Stormlight Archive;Rosharans;Azish;Other
 1184;Omin;Elantris;Selish;Aonic;Arelene
 1185;Oolelen;Stormlight Archive;Rosharans;Other;Other
-1186;Opa;Elantris;Selish;Other;Other
-1188;OreSeur;Mistborn Era 1;Scadrians;Other;Other
+1186;Opa;Elantris;Selish;Seons;Other
+1188;OreSeur;Mistborn Era 1;Scadrians;Kandra;Other
 1189;Ornament;Stormlight Archive;Rosharans;Spren;Other
-1191;Paalm;Mistborn Era 2;Scadrians;Other;Other
+1191;Paalm;Mistborn Era 2;Scadrians;Kandra;Other
 1193;Pai;Stormlight Archive;Rosharans;Other;Other
 1194;Pailiah;Stormlight Archive;Rosharans;Other;Other
 1195;Pakson;Tress of the Emerald Sea;Lumarans;Other;Other
@@ -675,7 +627,6 @@ Id;Label;Book;Planet;Race;Region
 1210;Perel;Stormlight Archive;Rosharans;Other;Other
 1211;Peret;Mistborn Era 2;Scadrians;Other;Other
 1212;Perethom;Stormlight Archive;Rosharans;Alethi;Other
-1214;Petrine;Mistborn Era 2;Scadrians;Other;Malwish
 1215;Phendorana;Stormlight Archive;Rosharans;Spren;Other
 1216;Philen Frandeu;Mistborn Era 1;Scadrians;Skaa;Other
 1218;Pitt;Stormlight Archive;Rosharans;Other;Other
@@ -688,7 +639,6 @@ Id;Label;Book;Planet;Race;Region
 1228;Punio;Stormlight Archive;Rosharans;Herdazians;Other
 1229;Push;Mistborn Era 2;Scadrians;Other;Other
 1231;Quellion;Mistborn Era 1;Scadrians;Skaa;Other
-1232;Raagent;White Sand;Taldaini;Lossandins;Taishin
 1233;Raboniel;Stormlight Archive;Rosharans;Singers;Other
 1234;Radathavian;Stormlight Archive;Rosharans;Other;Other
 1235;Raksha;Stormlight Archive;Rosharans;Other;Other
@@ -711,7 +661,6 @@ Id;Label;Book;Planet;Race;Region
 1262;Reesh;Stormlight Archive;Rosharans;Other;Other
 1263;Relador;Stormlight Archive;Rosharans;Other;Other
 1265;Relis Ruthar;Stormlight Archive;Rosharans;Other;Other
-1266;ReLuur;Mistborn Era 2;Scadrians;Other;Other
 1268;Remala;Stormlight Archive;Rosharans;Singers;Other
 1273;Renarin Kholin;Stormlight Archive;Rosharans;Alethi;Other
 1274;Rencalt;Stormlight Archive;Rosharans;Other;Other
@@ -731,7 +680,6 @@ Id;Label;Book;Planet;Race;Region
 1299;Rind;Stormlight Archive;Rosharans;Alethi;Other
 1301;Rine;Stormlight Archive;Rosharans;Singers;Other
 1303;Rira (character);Warbreaker;Nalthians;Other;Idrians
-1305;Rite;White Sand;Taldaini;Lossandins;Taishin
 1306;Rittle;Mistborn Era 1;Scadrians;Skaa;Other
 1307;Rlain;Stormlight Archive;Rosharans;Singers;Other
 1310;Rod (Roshar);Stormlight Archive;Rosharans;Herdazians;Other
@@ -751,13 +699,9 @@ Id;Label;Book;Planet;Race;Region
 1336;Samjae;Yumi and the Nightmare Painter;Komashi;Other;Torish
 1337;Sand Lord;White Sand;Other;Other;Other
 1339;Saolin;Elantris;Selish;Aonic;Arelene
-1340;Sarene;Elantris;Selish;Other;Other
-1341;Sarene's mother;Elantris;Selish;Other;Other
 1343;Sazed;Mistborn Era 1;Scadrians;Other;Terris
-1345;Scooch;White Sand;Taldaini;Other;Other
 1346;Scrak;Stormlight Archive;Rosharans;Other;Other
 1350;Sebasinar;Stormlight Archive;Rosharans;Other;Other
-1353;Seinalan;Elantris;Selish;Other;Other
 1354;Sekeir;Stormlight Archive;Rosharans;Spren;Other
 1356;Selvest Vif;Mistborn Era 2;Scadrians;Other;Other
 1358;Senna;Other;Other;Other;Other
@@ -779,10 +723,8 @@ Id;Label;Book;Planet;Race;Region
 1383;Shoren;Stormlight Archive;Rosharans;Other;Other
 1384;Shuanor;Stormlight Archive;Rosharans;Other;Other
 1385;Shubalai;Stormlight Archive;Rosharans;Other;Other
-1387;Shuden;Elantris;Selish;Other;Other
 1392;Sidin;Stormlight Archive;Rosharans;Alethi;Other
 1393;Sigzil;Stormlight Archive;Rosharans;Makabaki (page does not exist);Other
-1394;Silajana;Mistborn Era 2;Other;Other;Other
 1397;Silence's grandmother;Shadows for Silence;Threnodite;Other;Other
 1400;Sinbian;Stormlight Archive;Rosharans;Other;Other
 1401;Sindren;Mistborn Era 2;Scadrians;Other;Other
@@ -808,19 +750,16 @@ Id;Label;Book;Planet;Race;Region
 1442;Stivient;The Emperor's Soul;Selish;Other;Other
 1443;Stormfather;Stormlight Archive;Rosharans;Spren;Other
 1444;Straff Venture;Mistborn Era 1;Scadrians;Other;Other
-1445;Stumpy;White Sand;Taldaini;Other;Other
 1447;Sukishi;Yumi and the Nightmare Painter;Komashi;Nagadan;Other
-1450;Sunjun;Yumi and the Nightmare Painter;Komashi;Other;Torish
+1450;Sunjun;Yumi and the Nightmare Painter;Komashi;Nightmares;Torish
 1452;Sureblood;Stormlight Archive;Rosharans;Other;Other
 1453;Susebron;Warbreaker;Nalthians;Other;Hallandren
 1454;Susebron the Fourth;Warbreaker;Nalthians;Other;Hallandren
-1456;Svel;Mistborn Era 2;Scadrians;Other;Other
 1457;Syasikk;Stormlight Archive;Rosharans;Other;Other
 1458;Sylphrena;Stormlight Archive;Rosharans;Spren;Other
 1459;Szeth;Stormlight Archive;Rosharans;Shin;Other
 1460;Szeth's highspren;Stormlight Archive;Rosharans;Spren;Other
 1461;Taan;Elantris;Selish;Aonic;Arelene
-1462;Tabaar;Mistborn Era 2;Scadrians;Other;Other
 1463;Tadet;Stormlight Archive;Rosharans;Other;Other
 1468;Taid;Elantris;Selish;Aonic;Arelene
 1469;Tain;White Sand;Taldaini;Lossandins;Daysiders
@@ -838,8 +777,7 @@ Id;Label;Book;Planet;Race;Region
 1487;Tao;The Emperor's Soul;Selish;Other;MaiPon
 1491;Taravangian;Stormlight Archive;Rosharans;Other;Kharbranthians
 1493;Tarilar;Stormlight Archive;Rosharans;Other;Other
-1495;TarKavv;Mistborn Era 1;Scadrians;Other;Other
-1498;Tarson;Mistborn Era 2;Scadrians;Other;Other
+1498;Tarson;Mistborn Era 2;Scadrians;Koloss;Other
 1501;Tashlin;Stormlight Archive;Rosharans;Other;Other
 1505;Taudr;Mistborn Era 2;Scadrians;Other;Other
 1508;Tearim;Stormlight Archive;Rosharans;Alethi;Other
@@ -851,10 +789,9 @@ Id;Label;Book;Planet;Race;Region
 1517;Temadre;Mistborn Era 1;Scadrians;Other;Other
 1521;Tendel;White Sand;Taldaini;Other;Daysiders
 1522;Tenrao;Elantris;Selish;Aonic;Other
-1523;TenSoon;Mistborn Era 1;Scadrians;Other;Other
+1523;TenSoon;Mistborn Era 1;Scadrians;Kandra;Other
 1524;Teofil;Stormlight Archive;Rosharans;Alethi;Other
 1525;Teor;Elantris;Selish;Aonic;Arelene
-1526;Teorn;Elantris;Selish;Other;Other
 1530;Terri;Mistborn Era 2;Scadrians;Other;Other
 1531;Terxim;Stormlight Archive;Rosharans;Other;Other
 1534;Testament;Stormlight Archive;Rosharans;Spren;Other
@@ -864,9 +801,7 @@ Id;Label;Book;Planet;Race;Region
 1539;Thakka;Stormlight Archive;Rosharans;Alethi;Other
 1540;Thame;Warbreaker;Nalthians;Other;Idrians
 1541;Thanadal;Stormlight Archive;Rosharans;Alethi;Other
-1542;Thaspic;Stormlight Archive;Rosharans;Other;Selay
 1543;Themos Tresting;Mistborn Era 1;Scadrians;Other;Other
-1547;Thomos;The Sunlit Man;Threnodite;Other;Other
 1551;Thude;Stormlight Archive;Rosharans;Singers;Other
 1552;Thurts;Mistborn Era 1;Scadrians;Skaa;Other
 1553;Tibon;Stormlight Archive;Rosharans;Alethi;Other
@@ -879,7 +814,6 @@ Id;Label;Book;Planet;Race;Region
 1564;Tindwyl;Mistborn Era 1;Scadrians;Other;Terris
 1573;Tojin;Yumi and the Nightmare Painter;Komashi;Nagadan;Other
 1574;Tomor;Stormlight Archive;Rosharans;Alethi;Other
-1575;Ton (singer);Stormlight Archive;Rosharans;Singers;Other
 1576;Ton (Veden);Stormlight Archive;Rosharans;Veden;Other
 1577;Tonk Fah;Warbreaker;Nalthians;Other;Pahn Kahl
 1579;Toorim;Stormlight Archive;Rosharans;Other;Other
@@ -911,7 +845,7 @@ Id;Label;Book;Planet;Race;Region
 1620;Ty;Stormlight Archive;Rosharans;Other;Other
 1621;Tyden;Mistborn Era 1;Scadrians;Other;Other
 1623;Ua'pam;Stormlight Archive;Rosharans;Spren;Other
-1624;Ulaam;Tress of the Emerald Sea;Scadrians;Other;Other
+1624;Ulaam;Tress of the Emerald Sea;Scadrians;Kandra;Other
 1627;Uli Da;Shadows for Silence;Yolish;Sho Del;Other
 1628;Ulim;Stormlight Archive;Rosharans;Spren;Other
 1629;Ulina;Stormlight Archive;Rosharans;Alethi;Other
@@ -935,7 +869,6 @@ Id;Label;Book;Planet;Race;Region
 1655;Varas;Stormlight Archive;Rosharans;Other;Kharbranthians
 1656;Vardinar;Stormlight Archive;Rosharans;Alethi;Other
 1658;Varnali;Stormlight Archive;Rosharans;Singers;Other
-1659;VarSell;Mistborn Era 1;Scadrians;Other;Other
 1660;Varth;Stormlight Archive;Rosharans;Other;Other
 1662;Vathah;Stormlight Archive;Rosharans;Other;Other
 1663;Vathe;Stormlight Archive;Rosharans;Other;Other
@@ -946,12 +879,11 @@ Id;Label;Book;Planet;Race;Region
 1669;Vedel;Stormlight Archive;Rosharans;Other;Other
 1673;Velat;Stormlight Archive;Rosharans;Alethi;Other
 1675;Ven;Stormlight Archive;Rosharans;Alethi;Other
-1677;VenDell;Mistborn Era 2;Scadrians;Other;Other
 1678;Venli;Stormlight Archive;Rosharans;Singers;Other
 1679;Vennin;White Sand;Taldaini;Lossandins;Daysiders
 1682;Veratorim;Stormlight Archive;Rosharans;Spren;Other
-1684;Vershad;Mistborn Era 1;Scadrians;Skaa;Other
-1685;Human;Mistborn Era 1;Scadrians;Skaa;Other
+1684;Vershad;Mistborn Era 1;Scadrians;Koloss;Other
+1685;Human;Mistborn Era 1;Scadrians;Koloss;Other
 1686;Vespan;Stormlight Archive;Rosharans;Spren;Other
 1687;Vet (Roshar);Stormlight Archive;Rosharans;Other;Other
 1688;Vet (Scadrial);Mistborn Era 2;Scadrians;Skaa;Other
@@ -973,19 +905,16 @@ Id;Label;Book;Planet;Race;Region
 1721;Wellid;Mistborn Era 2;Scadrians;Other;Other
 1722;Wells;Mistborn Era 2;Scadrians;Other;Other
 1723;Wema;Stormlight Archive;Other;Other;Other
-1726;Wilhelmette;Mistborn Era 2;Scadrians;Other;Other
-1727;Wilheln;White Sand;Taldaini;Other;Darksiders
 1731;Winnow (Roshar);Stormlight Archive;Rosharans;Spren;Other
 1732;Winsting Innate;Mistborn Era 2;Scadrians;Other;Other
 1735;Word of Deeds;Stormlight Archive;Rosharans;Singers;Other
 1738;Wvlan;Stormlight Archive;Rosharans;Other;Thaylen
 1739;Wyndle;Stormlight Archive;Rosharans;Spren;Other
-1742;Xisisrefliel;Tress of the Emerald Sea;Other;Other;Other
+1742;Xisisrefliel;Tress of the Emerald Sea;Other;Dragon (cosmere);Other
 1743;Yaalani;Sixth of the Dusk;Other;Other;Eelakin
 1744;Yake;Stormlight Archive;Rosharans;Other;Other
 1745;Yalb;Stormlight Archive;Rosharans;Other;Thaylen
 1746;Yanagawn;Stormlight Archive;Rosharans;Azish;Other
-1747;Yancey Yaceczko;Mistborn Era 2;Scadrians;Other;Other
 1748;Yara;Stormlight Archive;Rosharans;Other;Other
 1749;Yarda;Warbreaker;Nalthians;Other;Idrians
 1750;Yazad (Sel);The Emperor's Soul;Selish;Other;Other
@@ -1000,12 +929,10 @@ Id;Label;Book;Planet;Race;Region
 1763;Ym;Stormlight Archive;Rosharans;Iriali;Other
 1766;Ytves;Mistborn Era 1;Scadrians;Other;Other
 1767;Yuinshi;Yumi and the Nightmare Painter;Komashi;Nagadan;Other
-1768;Yulip;Mistborn Era 2;Scadrians;Other;Other
 1769;Yumi;Yumi and the Nightmare Painter;Komashi;Other;Torish
 1770;Yunfah;Stormlight Archive;Rosharans;Spren;Other
 1772;Yustara;Stormlight Archive;Rosharans;Other;Other
 1774;Zane Venture;Mistborn Era 1;Scadrians;Other;Other
-1775;Zeal;The Sunlit Man;Threnodite;Other;Other
 1776;Zedzil;Stormlight Archive;Rosharans;Other;Other
 1777;Zeheb;Stormlight Archive;Rosharans;Other;Other
 1778;Zellion (Threnody);The Sunlit Man;Threnodite;Other;Other
